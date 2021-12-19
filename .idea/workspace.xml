@@ -13,6 +13,9 @@
       <executable path="composer" />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.env" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/webpack.mix.js" root0="FORCE_HIGHLIGHTING" />
@@ -139,6 +142,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="22S8xL9Vb8AYXhFAHI0uHO4RYey" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -172,7 +176,7 @@
       <workItem from="1639809006437" duration="4135000" />
       <workItem from="1639819914564" duration="17501000" />
       <workItem from="1639900001927" duration="30922000" />
-      <workItem from="1639931739100" duration="3256000" />
+      <workItem from="1639931739100" duration="3862000" />
     </task>
     <servers />
   </component>
