@@ -1,6 +1,6 @@
-### Clone the project ######
-### cd project-name ######
-### cp .env.example .env ######
-### composer install ######
-### php artisan key:generate ######
-### Edit database credentials on .env ######
+Clone the project<br />
+cd project-name<br />
+cp .env.example .env<br />
+composer install<br />
+php artisan key:generate<br />
+Edit database credentials on .env<br />
